@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxCs3gxQCcN0BhhPYtJ08bIlYecu0CSPtNEkluJUBWJsT0Y66IkhaeUNPzGEgUQQU9yE7/6auzwVq3bXFlKkqw==",
+  "success": true,
+  "projectFilePath": "/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Domain/Gameshop.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/denizsonbay/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/denizsonbay/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/denizsonbay/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/denizsonbay/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/denizsonbay/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/denizsonbay/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/denizsonbay/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

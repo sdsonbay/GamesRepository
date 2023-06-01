@@ -1,0 +1,17 @@
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/bin/Debug/net7.0/Gameshop.Infrastructure.deps.json
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/bin/Debug/net7.0/Gameshop.Infrastructure.runtimeconfig.json
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/bin/Debug/net7.0/Gameshop.Infrastructure.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/bin/Debug/net7.0/Gameshop.Infrastructure.pdb
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/bin/Debug/net7.0/Gameshop.Domain.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/bin/Debug/net7.0/Gameshop.Domain.pdb
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.csproj.AssemblyReference.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.AssemblyInfoInputs.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.AssemblyInfo.cs
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.csproj.CopyComplete
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/refint/Gameshop.Infrastructure.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.pdb
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/Gameshop.Infrastructure.genruntimeconfig.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Infrastructure/obj/Debug/net7.0/ref/Gameshop.Infrastructure.dll

@@ -1,0 +1,15 @@
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/bin/Debug/net7.0/Gameshop.Application.deps.json
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/bin/Debug/net7.0/Gameshop.Application.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/bin/Debug/net7.0/Gameshop.Application.pdb
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/bin/Debug/net7.0/Gameshop.Domain.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/bin/Debug/net7.0/Gameshop.Domain.pdb
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.csproj.AssemblyReference.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.AssemblyInfoInputs.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.AssemblyInfo.cs
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.csproj.CoreCompileInputs.cache
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.csproj.CopyComplete
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/refint/Gameshop.Application.dll
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/Gameshop.Application.pdb
+/Users/denizsonbay/Desktop/Gameshop/Gameshop/Gameshop.Application/obj/Debug/net7.0/ref/Gameshop.Application.dll
